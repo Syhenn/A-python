@@ -5,8 +5,7 @@ This repository features an implementation of the A* (A-Star) pathfinding algori
 - Heuristic Function: Utilizes the Manhattan distance as a heuristic to estimate the cost to the goal, ensuring optimal and efficient pathfinding.
 - Grid Visualization: Visualizes the grid, obstacles, start and goal points, and the path found by the A* algorithm.
 
-#Installation
-
+# Installation
 ```python
 pip install matplotlib numpy
 ```
